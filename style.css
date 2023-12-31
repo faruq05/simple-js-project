@@ -1,0 +1,29 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    padding: 0;
+    padding: 15px 30px;
+}
+
+.wrapper .row{
+    min-height: 90vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.size{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+body{
+    background: #fff;
+ 
+}
+
+.quote-container form input{
+    margin-bottom: 15px;
+}
